@@ -1,1 +1,1 @@
-# Excelr-Data Science
+# ExcelR-Data Science
